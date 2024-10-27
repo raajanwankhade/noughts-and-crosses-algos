@@ -1,2 +1,2 @@
-# noughts-and-crosses-algos
-This is the noughts and crosses (also known as Tic-Tac-Toe) implementation with 4 methods.
+# Analysis of Different Methods of Optimising Play in Noughts and Crosses
+This is the implementation of the noughts and crosses (also known as Tic-Tac-Toe) with four methods.
